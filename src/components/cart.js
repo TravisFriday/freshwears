@@ -7,6 +7,7 @@ import {
   subtractQuantity
 } from "./actions/cartActions";
 import Order from "./order";
+
 class Cart extends Component {
   //to remove the item completely
   handleRemove = id => {
@@ -25,6 +26,9 @@ class Cart extends Component {
       this.props.items.map(item => {
         return (
           <li className="collection-item avatar" key={item.id}>
+            <div className="item-img">
+              <img src={item.img} alt={item.img} className="" />
+            </div>
             <div className="item-desc">
               <span className="title">{item.title}</span>
               <p>{item.description}</p>

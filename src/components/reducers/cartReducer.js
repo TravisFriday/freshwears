@@ -6,81 +6,63 @@ import {
   ADD_SHIPPING
 } from "../actions/action-types/cart-actions";
 
+import Item1 from "../../images/benson.jpg";
+import Item2 from "../../images/casio.jpg";
+import Item3 from "../../images/dw.jpg";
+import Item4 from "../../images/fossil.jpg";
+import Item5 from "../../images/olevis.jpg";
+import Item6 from "../../images/rolex.jpg";
+
 const initState = {
   items: [
     {
       id: 1,
-      description:
-        "An everyday jar of flower, for relaxing after a day at work.",
-      name: "3.5g Zkittlez Buds",
-      price: 35.0,
-      quantity: 123.0
+      description: "Made from the black-owned business Benson",
+      title: "Benson watch",
+      price: 100,
+      quantity: 12,
+      img: Item1
     },
     {
       id: 2,
-      description: "500mg glass cart",
-      name: "500mg cartridge",
-      price: 27.75,
-      quantity: 16.0
+      description: "Bringing back the classic watch with new modifications",
+      title: "Casio Classic Silver watch",
+      price: 270,
+      quantity: 160,
+      img: Item2
     },
     {
       id: 3,
-      description: "Bulk flower sold by the gram, bagged on demand.",
-      name: "Bulk flower",
-      price: 5.0,
-      quantity: 2103.57
+      description: "A watch for minimalists",
+      title: "Daniel Wellington Watch",
+      price: 75,
+      quantity: 210,
+      img: Item3
     },
     {
       id: 4,
-      description: "Crunchy, and satisfying",
-      name: "10mg 1:1 Chocolate Chip cookie",
-      price: 8.0,
-      quantity: 27.0
+      description: "A leather watch with a silver rim and dark face.",
+      title: "Fossil Brown watch",
+      price: 250,
+      quantity: 270,
+      img: Item4
     },
     {
       id: 5,
-      description: "Top quality rolling papers, made from unbleached paper",
-      name: "FUNKYMONKEY ROLLING PAPERS (6-PACK)",
-      price: 2.0,
-      quantity: 73.0
+      description:
+        "A minimalist watch for women. Rose gold frame with a blue face.",
+      title: "Olevis  Rose Gold Watch",
+      price: 50,
+      quantity: 73.0,
+      img: Item5
     },
     {
       id: 6,
-      description: "Sized for sharing",
-      name: "28g OG Kush Buds, bagged",
-      price: 238.15,
-      quantity: 21.0
-    },
-    {
-      id: 7,
-      description:
-        "A clear, tasteless infusion of THC that's ready to mix with your favorite cocktail. Great for birthday parties, after-work mixers, and any holiday occassion. Come see why we're everyone's #1 favorite gift this season!",
-      name: "Simply Pure, 100mg bottle",
-      price: 76.0,
-      quantity: 31.0
-    },
-    {
-      id: 8,
-      description: "Crunchy, and satisfying",
-      name: "10mg 1:1 Chocolate Chip cookie (6-pack)",
-      price: 45.0,
-      quantity: 43.0
-    },
-    {
-      id: 9,
-      description:
-        "Infused with kief and shatter, this preroll will always take you there.",
-      name: "Mr. Sinz 1g infused preroll",
-      price: 18.5,
-      quantity: 88.0
-    },
-    {
-      id: 10,
-      description:
-        "Apply to skin and let stand for 10 minutes. Non-comedogenic, never tested on animals.",
-      name: "1:1 50mg Relax Your Back Balm",
-      price: 92.0,
-      quantity: 43.0
+      description: "100% handmade watch",
+      title: "Rolex Silver",
+      price: 25000,
+      quantity: 1,
+      img: Item6
     }
   ],
   addedItems: [],

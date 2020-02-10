@@ -2,16 +2,21 @@ import React from "react";
 import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
-    <nav className="nav-wrapper blue">
+    <nav className="nav-wrapper black">
       <div className="container">
         <Link to="/" className="brand-logo">
-          Inventory
+          Fresh Wears
         </Link>
 
         <ul className="right">
           <li>
+            <Link to="/account">
+              <i className="material-icons right">account_circle</i>
+            </Link>
+          </li>
+          <li>
             <Link to="/cart">
-              My Cart<i className="material-icons right">shopping_cart</i>
+              <i className="material-icons right">shopping_cart</i>
             </Link>
           </li>
         </ul>
