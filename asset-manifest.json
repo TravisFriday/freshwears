@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/freshwears/static/css/main.f2ed9756.chunk.css",
+    "main.js": "/freshwears/static/js/main.04aa9e49.chunk.js",
+    "main.js.map": "/freshwears/static/js/main.04aa9e49.chunk.js.map",
+    "runtime-main.js": "/freshwears/static/js/runtime-main.e3513742.js",
+    "runtime-main.js.map": "/freshwears/static/js/runtime-main.e3513742.js.map",
+    "static/js/2.e0f98f2e.chunk.js": "/freshwears/static/js/2.e0f98f2e.chunk.js",
+    "static/js/2.e0f98f2e.chunk.js.map": "/freshwears/static/js/2.e0f98f2e.chunk.js.map",
+    "index.html": "/freshwears/index.html",
+    "precache-manifest.fc66cadc5c83d68cef27fc4f9d42c368.js": "/freshwears/precache-manifest.fc66cadc5c83d68cef27fc4f9d42c368.js",
+    "service-worker.js": "/freshwears/service-worker.js",
+    "static/css/main.f2ed9756.chunk.css.map": "/freshwears/static/css/main.f2ed9756.chunk.css.map",
+    "static/js/2.e0f98f2e.chunk.js.LICENSE": "/freshwears/static/js/2.e0f98f2e.chunk.js.LICENSE",
+    "static/media/benson.jpg": "/freshwears/static/media/benson.f85896f7.jpg",
+    "static/media/casio.jpg": "/freshwears/static/media/casio.44f53e5d.jpg",
+    "static/media/dw.jpg": "/freshwears/static/media/dw.b44e973d.jpg",
+    "static/media/fossil.jpg": "/freshwears/static/media/fossil.31f0de27.jpg",
+    "static/media/olevis.jpg": "/freshwears/static/media/olevis.5a2bf6a9.jpg",
+    "static/media/rolex.jpg": "/freshwears/static/media/rolex.91742c68.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3513742.js",
+    "static/js/2.e0f98f2e.chunk.js",
+    "static/css/main.f2ed9756.chunk.css",
+    "static/js/main.04aa9e49.chunk.js"
+  ]
+}
