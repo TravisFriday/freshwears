@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/freshwears/static/css/main.f2ed9756.chunk.css",
-    "main.js": "/freshwears/static/js/main.b4286ddd.chunk.js",
-    "main.js.map": "/freshwears/static/js/main.b4286ddd.chunk.js.map",
+    "main.js": "/freshwears/static/js/main.d8a6aae6.chunk.js",
+    "main.js.map": "/freshwears/static/js/main.d8a6aae6.chunk.js.map",
     "runtime-main.js": "/freshwears/static/js/runtime-main.a78dbd7f.js",
     "runtime-main.js.map": "/freshwears/static/js/runtime-main.a78dbd7f.js.map",
     "static/js/2.78caf425.chunk.js": "/freshwears/static/js/2.78caf425.chunk.js",
     "static/js/2.78caf425.chunk.js.map": "/freshwears/static/js/2.78caf425.chunk.js.map",
     "index.html": "/freshwears/index.html",
-    "precache-manifest.4c32b42803cd5714e84ce10c4b8a5433.js": "/freshwears/precache-manifest.4c32b42803cd5714e84ce10c4b8a5433.js",
+    "precache-manifest.02cfbc65eada291709e48560da6f90c8.js": "/freshwears/precache-manifest.02cfbc65eada291709e48560da6f90c8.js",
     "service-worker.js": "/freshwears/service-worker.js",
     "static/css/main.f2ed9756.chunk.css.map": "/freshwears/static/css/main.f2ed9756.chunk.css.map",
     "static/js/2.78caf425.chunk.js.LICENSE": "/freshwears/static/js/2.78caf425.chunk.js.LICENSE",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.a78dbd7f.js",
     "static/js/2.78caf425.chunk.js",
     "static/css/main.f2ed9756.chunk.css",
-    "static/js/main.b4286ddd.chunk.js"
+    "static/js/main.d8a6aae6.chunk.js"
   ]
 }

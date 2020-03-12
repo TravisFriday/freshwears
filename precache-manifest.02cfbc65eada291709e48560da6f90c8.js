@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe6a29d0b1496e47f646995dad80765b",
+    "revision": "39997bb27aefd44e4ff549973c415b18",
     "url": "/freshwears/index.html"
   },
   {
-    "revision": "2310722dcd30ef2b9300",
+    "revision": "4b3d5aa0e68b6cec5a14",
     "url": "/freshwears/static/css/main.f2ed9756.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/freshwears/static/js/2.78caf425.chunk.js.LICENSE"
   },
   {
-    "revision": "2310722dcd30ef2b9300",
-    "url": "/freshwears/static/js/main.b4286ddd.chunk.js"
+    "revision": "4b3d5aa0e68b6cec5a14",
+    "url": "/freshwears/static/js/main.d8a6aae6.chunk.js"
   },
   {
     "revision": "45bf87cc87e23ae7f3eb",
