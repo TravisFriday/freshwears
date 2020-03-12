@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="nav-wrapper black">
       <div className="container">
-        <Link to="/" className="brand-logo">
+        <Link to="/freshwears" className="brand-logo">
           Fresh Wears
         </Link>
 
